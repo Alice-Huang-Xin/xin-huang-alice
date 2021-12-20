@@ -4,7 +4,7 @@
 widget: black
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 1
@@ -25,4 +25,4 @@ design:
     text_color_light: true
 ---
 
-Add any content to the body of the section here.
+Hello Everyone! Alice here! Welcome to my website!
